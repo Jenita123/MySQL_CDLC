@@ -2,6 +2,12 @@
 Task: Establish a MySQL connection with Python
 ```
 
+* First install the mysql-conenctor
+
+```bash
+pip install mysql-connector-python
+```
+
 ```python
 import mysql.connector
 
